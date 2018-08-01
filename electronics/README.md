@@ -15,3 +15,7 @@ Useful Electronics Links
 - [Mouser](https://www.mouser.com/)
 - [Adafruit](https://www.adafruit.com/)
 - [Sparkfun](https://www.sparkfun.com/)
+
+## Programs
+### Schematic Software
+- [KCAD](http://kicad-pcb.org/)
